@@ -1,5 +1,5 @@
 {
-    "name": "artcustomer/api-elevenlabs-client",
+    "name": "artcustomer/elevenLabs-api-client",
     "description": "ElevenLabs Api client in PHP",
     "keywords": ["api"],
     "type": "library",
