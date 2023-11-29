@@ -16,6 +16,6 @@ https://getcomposer.org/
     }
 ],
 "require": {
-  "artcustomer/elevenLabs-api-client": "^1.0.0",
+  "artcustomer/elevenLabs-api-client": "^1.0.2",
 }
 ```
